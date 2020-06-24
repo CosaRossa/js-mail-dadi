@@ -1,0 +1,33 @@
+body {
+  background: linear-gradient(45deg, #44cc44, #1ab299);
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+  height: 100vh;
+  width: 100vw;
+}
+
+h1 {
+  color: #ff0000;
+  text-shadow: 2px 2px 3px #777;
+}
+
+#btn {
+  padding: 15px 20px;
+  font-size: 20px;
+  border-radius: 15px;
+  background-color: orange;
+  box-shadow: 3px 3px 8px #777;
+}
+
+i {
+  font-size: 80px;
+  color: #dd0000;
+  margin: 10px 20px;
+  text-shadow: 3px 3px 8px #666;
+}
+
+#winner {
+  font-size: 20px;
+  color: darkorange;
+  text-shadow: 0.5px 0.5px #777;
+}
